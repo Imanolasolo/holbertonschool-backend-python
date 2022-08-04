@@ -54,7 +54,7 @@ Write a type-annotated function `add` that takes a float `a` and a float `b` as 
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x00-python_variable_annotations`
-*   File: [0-add.py]()
+*   File: [0-add.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x00-python_variable_annotations/0-add.py)
 
 ### 1\. Basic annotations - concat
 
@@ -79,7 +79,7 @@ Write a type-annotated function `concat` that takes a string `str1` and a string
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x00-python_variable_annotations`
-*   File: [1-concat.py]()
+*   File: [1-concat.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x00-python_variable_annotations/1-concat.py)
 
 ### 2\. Basic annotations - floor
 
@@ -106,7 +106,7 @@ Write a type-annotated function `concat` that takes a string `str1` and a string
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x00-python_variable_annotations`
-*   File: [2-floor.py]()
+*   File: [2-floor.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x00-python_variable_annotations/2-floor.py)
 
 ### 3\. Basic annotations - to string
 
@@ -131,7 +131,7 @@ Write a type-annotated function `to_str` that takes a float `n` as argument and 
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x00-python_variable_annotations`
-*   File: [3-to_str.py]()
+*   File: [3-to_str.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x00-python_variable_annotations/3-to_str.py)
 
 ### 4\. Define variables
 
@@ -166,7 +166,7 @@ Define and annotate the following variables with the specified values:
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x00-python_variable_annotations`
-*   File: [4-define_variables.py]()
+*   File: [4-define_variables.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x00-python_variable_annotations/4-define_variables.py)
 
 ### 5\. Complex types - list of floats
 
@@ -193,7 +193,7 @@ Write a type-annotated function `sum_list` which takes a list `input_list` of fl
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x00-python_variable_annotations`
-*   File: [5-sum_list.py]()
+*   File: [5-sum_list.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x00-python_variable_annotations/5-sum_list.py)
 
 ### 6\. Complex types - mixed list
 
@@ -220,7 +220,7 @@ Write a type-annotated function `sum_mixed_list` which takes a list `mxd_lst` of
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x00-python_variable_annotations`
-*   File: [6-sum_mixed_list.py]()
+*   File: [6-sum_mixed_list.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x00-python_variable_annotations/6-sum_mixed_list.py)
 
 ### 7\. Complex types - string and int/float to tuple
 
@@ -245,7 +245,7 @@ Write a type-annotated function `to_kv` that takes a string `k` and an int OR fl
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x00-python_variable_annotations`
-*   File: [7-to_kv.py]()
+*   File: [7-to_kv.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x00-python_variable_annotations/7-to_kv.py)
 
 ### 8\. Complex types - functions
 
@@ -268,7 +268,7 @@ Write a type-annotated function `make_multiplier` that takes a float `multiplier
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x00-python_variable_annotations`
-*   File: [8-make_multiplier.py]()
+*   File: [8-make_multiplier.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x00-python_variable_annotations/8-make_multiplier.py)
 
 ### 9\. Let's duck type an iterable object
 
@@ -293,7 +293,7 @@ Annotate the below function’s parameters and return values with the appropriat
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x00-python_variable_annotations`
-*   File: [9-element_length.py]()
+*   File: [9-element_length.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x00-python_variable_annotations/9-element_length.py)
 
 ### 10\. Duck typing - first element of a sequence
 
@@ -322,7 +322,7 @@ Augment the following code with the correct duck-typed annotations:
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x00-python_variable_annotations`
-*   File: [100-safe_first_element.py]()
+*   File: [100-safe_first_element.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x00-python_variable_annotations/100-safe_first_element.py)
 
 ### 11\. More involved type annotations
 
@@ -359,7 +359,7 @@ Hint: look into TypeVar
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x00-python_variable_annotations`
-*   File: [101-safely_get_value.py]()
+*   File: [101-safely_get_value.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x00-python_variable_annotations/101-safely_get_value.py)
 
 ### 12\. Type Checking
 
@@ -397,7 +397,7 @@ Use `mypy` to validate the following piece of code and apply any necessary chang
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x00-python_variable_annotations`
-*   File: [102-type_checking.py]()
+*   File: [102-type_checking.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x00-python_variable_annotations/102-type_checking.py)
 
 ## Credits.
 
