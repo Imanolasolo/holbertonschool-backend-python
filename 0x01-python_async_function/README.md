@@ -55,7 +55,7 @@ Use the `random` module.
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x01-python_async_function`
-*   File: [0-basic_async_syntax.py]()
+*   File: [0-basic_async_syntax.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x01-python_async_function/0-basic_async_syntax.py)
 
 ### 1\. Let's execute multiple coroutines at the same time with async
 
@@ -88,7 +88,7 @@ The output for your answers might look a little different and that’s okay.
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x01-python_async_function`
-*   File: [1-concurrent_coroutines.py]()
+*   File: [1-concurrent_coroutines.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x01-python_async_function/1-concurrent_coroutines.py)
 
 ### 2\. Measure the runtime
 
@@ -116,7 +116,7 @@ Use the `time` module to measure an approximate elapsed time.
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x01-python_async_function`
-*   File: [2-measure_runtime.py]()
+*   File: [2-measure_runtime.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x01-python_async_function/2-measure_runtime.py)
 
 ### 3\. Tasks
 
@@ -147,7 +147,7 @@ Write a function (do not create an async function, use the regular function synt
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x01-python_async_function`
-*   File: [3-tasks.py]()
+*   File: [3-tasks.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x01-python_async_function/3-tasks.py)
 
 ### 4\. Tasks
 
@@ -172,7 +172,7 @@ Take the code from `wait_n` and alter it into a new function `task_wait_n`. The 
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x01-python_async_function`
-*   File: [4-tasks.py]()
+*   File: [4-tasks.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x01-python_async_function/4-tasks.py)
 
 ## Credits.
 
