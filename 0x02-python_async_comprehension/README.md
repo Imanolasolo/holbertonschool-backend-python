@@ -46,7 +46,7 @@ The coroutine will loop 10 times, each time asynchronously wait 1 second, then y
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x02-python_async_comprehension`
-*   File: [0-async_generator.py]()
+*   File: [0-async_generator.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x02-python_async_comprehension/0-async_generator.py)
 
 ### 1\. Async Comprehensions
 
@@ -76,7 +76,7 @@ The coroutine will collect 10 random numbers using an async comprehensing over `
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x02-python_async_comprehension`
-*   File: [1-async_comprehension.py]()
+*   File: [1-async_comprehension.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x02-python_async_comprehension/1-async_comprehension.py)
 
 ### 2\. Run time for four parallel comprehensions
 
@@ -111,7 +111,7 @@ Notice that the total runtime is roughly 10 seconds, explain it to yourself.
 
 *   GitHub repository: `holbertonschool-backend-python`
 *   Directory: `0x02-python_async_comprehension`
-*   File: [2-measure_runtime.py]()
+*   File: [2-measure_runtime.py](https://github.com/Imanolasolo/holbertonschool-backend-python/blob/main/0x02-python_async_comprehension/2-measure_runtime.py)
 
 ## Credits.
 
